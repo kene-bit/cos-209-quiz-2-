@@ -1,0 +1,10 @@
+/* Minimal CSS for App */
+.App {
+  color: #222;
+}
+
+.App-header {
+  background: linear-gradient(90deg,#61dafb 0%,#ffffff 100%);
+  padding: 2rem;
+  border-radius: 8px;
+}
